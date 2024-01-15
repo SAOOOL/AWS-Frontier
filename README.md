@@ -20,9 +20,4 @@
 - Developers looking for a customizable and secure interface to interact with AWS services.
 """
 
-# Save to a Markdown (.md) file
-path = '/mnt/data/AWS_Frontier_Description.md'
-with open(path, 'w') as file:
-    file.write(markdown_description)
 
-path
