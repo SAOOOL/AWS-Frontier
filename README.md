@@ -2,6 +2,8 @@
 
 **AWS Frontier** is an innovative application seamlessly integrated with Nextcloud, offering a unified and intuitive interface for managing various AWS services. This application is designed for users seeking a streamlined approach to monitor and control their AWS resources efficiently.
 
+![AWS Frontier Interface](Frontier.png)
+
 ## Key Features:
 - **Enhanced Security**: Utilizes advanced encryption techniques (AES with CBC mode and Pkcs7 padding) for secure storage and retrieval of AWS API keys in local storage, ensuring sensitive data remains protected.
 - **Comprehensive AWS Service Integration**: Offers direct interaction with a variety of AWS services including IAM, EC2, SQS, RDS, CloudTrail, CloudWatch Events, Lambda Functions, and Cost Explorer, providing a centralized platform for managing diverse AWS resources.
