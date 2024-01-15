@@ -1,6 +1,3 @@
-# Writing the provided description as a Markdown (.md) formatted string
-
-markdown_description = """
 # AWS Frontier: A Nextcloud Integrated AWS Management Tool
 
 **AWS Frontier** is an innovative application seamlessly integrated with Nextcloud, offering a unified and intuitive interface for managing various AWS services. This application is designed for users seeking a streamlined approach to monitor and control their AWS resources efficiently.
