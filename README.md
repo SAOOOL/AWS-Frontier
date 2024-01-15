@@ -25,4 +25,5 @@
 ## Note:
 - Due to limited storage this repository only contains the main the src files needed for the front-end and back-end. Located in the "code" directory of the repo.
 - If you are interested in the full src for further development or use of the application, it can be found in a google drive [here](https://drive.google.com/drive/folders/1ocyJKFK_Is5e3bOa6Yk3M99WSJmgJ7aK?usp=sharing)
+- The "code" directory of this repository contains an overview of the source code structure.
 
