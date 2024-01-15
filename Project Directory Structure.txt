@@ -1,4 +1,4 @@
-#AWS Frontier
+# AWS Frontier
 # Project Directory Structure
 
 This document provides an overview of the directory structure for the project.
